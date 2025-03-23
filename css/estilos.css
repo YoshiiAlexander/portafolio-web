@@ -1,5 +1,13 @@
 body {
-    font-family: Arial, sans-serif;
-    padding: 20px;
-  }
-  
+  font-family: 'Segoe UI', sans-serif;
+  line-height: 1.6;
+  background-color: #f8f9fa;
+}
+
+h1, h2 {
+  margin-bottom: 1rem;
+}
+
+main {
+  padding-top: 1rem;
+}
